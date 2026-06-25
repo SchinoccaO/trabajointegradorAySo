@@ -84,5 +84,4 @@ Durante la escritura del script en nano se produjo un `TabError` por mezclar tab
 
 - [Documentación oficial de VirtualBox](https://www.virtualbox.org/manual/)
 - [Ubuntu Desktop – Canonical](https://ubuntu.com/desktop)
-- [Documentación de Python 3](https://docs.python.org/3/)
-- [GNU nano Editor](https://www.nano-editor.org/)
+
