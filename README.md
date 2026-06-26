@@ -4,7 +4,7 @@
 **Carrera:** Tecnicatura Universitaria en Programación  
 **Institución:** Universidad Tecnológica Nacional – Facultad Regional San Francisco  
 **Ciclo lectivo:** 2026  
-**LINK VIDEO**: 
+**LINK VIDEO**: https://youtu.be/CMBM0LMWM14
 
 **Integrantes:**
 - Gonzalez Schinocca, Oriana Nerea
