@@ -7,7 +7,7 @@
 
 **Integrantes:**
 - Gonzalez Schinocca, Oriana Nerea
-- Lorenzo Moreyra
+- Moreyra, Lorenzo 
 
 ---
 
